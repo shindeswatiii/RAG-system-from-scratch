@@ -7,3 +7,7 @@ transformers (Hugging Face): To get our powerful, free LLM.
 sentence-transformers: The easiest way to get a top-tier embedding model.
 faiss-cpu: Facebook AI’s blazing-fast, free vector search library. It’s our vector store.
 langchain: We’ll only use its text splitter, which is a smart shortcut that saves us hours of regex pain.
+
+
+NOTE : Interactive widgets are not supported in GitHub preview.
+Open this notebook in Google Colab for full functionality.
